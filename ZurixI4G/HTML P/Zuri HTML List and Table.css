@@ -1,0 +1,16 @@
+table, th, td {
+	border: 1px solid black;
+	padding: 5px;
+	border-spacing: 5px;
+	border-collapse: collapse ;
+}
+
+caption {
+	font-size: 25px;
+	padding: 50px;
+	background-color: #a0a0a0;
+}
+
+tr:nth-child(even) {
+	background-color: #bebebe;
+}

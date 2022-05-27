@@ -1,0 +1,40 @@
+header {
+	background-image: 
+      linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url(https://i0.wp.com/howtos.ng/wp-content/uploads/2019/08/DK6Q3350r-copy-e1531991385575.jpg?w=1480&ssl=1);
+  	background-position: center;
+  	background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+ }
+
+h1 {
+	padding: 50px;
+}
+
+img {
+	height:200px; 
+	width:200px;
+	border-radius: 50%;
+	border: 3px solid #ac5e38;
+  
+}
+body {
+	text-align: center;
+}
+
+.list {
+	text-align: left;
+}
+
+footer {
+	font-size: 15px;
+	color: gray;
+	background-color: #d5d3d6;
+	width: 50%;
+	margin: 20px auto;
+	padding: 20px;
+}
