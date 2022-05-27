@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @videlleudeh
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning fullstack development.
 - 💞️ I’m looking to collaborate on many projects relating to project management, open source, and many more tech stuff.
 - 📫 How to reach me IG@ynw.videlle_
