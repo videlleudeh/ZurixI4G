@@ -5,10 +5,12 @@
 
 
 import re
+
+
 def find_anagram(word, anagram):
     # [assignment] Add your code here
 
-    # filter all non-alphabetic characters and convert to lowercase.
+   
     word = "".join(re.findall("[a-zA-Z]+", word)).lower()
     anagram = "".join(re.findall("[a-zA-Z]+", anagram)).lower()
 
@@ -17,7 +19,12 @@ def find_anagram(word, anagram):
     else:
         return False
 
-print(find_anagram("hello", "check"))
-print(find_anagram("meBelow ", "elbow me"))
-print(find_anagram("redivider", "ddreiViEr"))
+print(find_anagram("hello", "lleho"))
+print(find_anagram("Chizoba ", "bazochi"))
+print(find_anagram("iloveyou", "ihateyou"))
+print(find_anagram("Mathematics", "mahetamtic"))
+
+
+
+   
 
