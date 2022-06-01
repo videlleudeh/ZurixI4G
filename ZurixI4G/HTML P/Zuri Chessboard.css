@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+	background-color: #d2c6d2;
+}
+
+.cb {
+	border: 10px solid black;
+	width: 600;
+	height: 580px;
+    position: absolute;
+    left: 350px;
+    right: 350px;
+    margin: auto;
+    text-align: center;
+}
+.black {
+    width: 120px;
+    height: 120px;
+    background-color: #2e2e2e;
+    text-align:center;
+    display: inline-block;
+	margin: -2px;
+	font-size: 60px;
+}
+
+.white {
+    width: 120px;
+    height: 120px;
+    background-color: #fff;
+    text-align:center;
+    display: inline-block;
+	margin: -2px;
+    font-size: 60px;
+}
+
+h1 {
+	padding: 50px;
+}
