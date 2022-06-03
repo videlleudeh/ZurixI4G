@@ -57,6 +57,7 @@ ol, ul {
 	color: white;
 	font-family: 'Garamond', serif;
 	font-size: 17px;
+	position: absolute;
 }
 
 button {
@@ -87,6 +88,7 @@ button:hover {
 	text-align: center;
 	background-color: #000020;
 	color: white;
+	position: absolute;
 }
 
 .h2ct {
@@ -139,6 +141,7 @@ button:hover {
 	text-align: center;
 	background-color: #000020;
 	color: white;
+	position: absolute;
 }
 
 .h2reg {
@@ -196,6 +199,7 @@ label {
 	text-align: center;
 	background-color: #000020;
 	color: white;
+	position: absolute;
 }
 
 .h2log {
