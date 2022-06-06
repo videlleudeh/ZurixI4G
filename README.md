@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @videlleudeh
+- 👋 Hi, I’m Chizoba Udechukwu.
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning fullstack development.
-- 💞️ I’m looking to collaborate on many projects relating to project management, open source, and many more tech stuff.
-- 📫 How to reach me IG@ynw.videlle_
+- 🌱 I’m currently learning fullstack web development.
+- 💞️ I’m looking to collaborate on many projects relating to wed/software dev.
+- 📫 How to reach me chizzyudeh03@gmail.com
 
 <!---
 videlleudeh/videlleudeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
