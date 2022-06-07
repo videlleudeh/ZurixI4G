@@ -10,14 +10,14 @@ from cgitb import text
 import re
 
 
-def read_file_content(filename):
+def read_file_content(file):
     # [assignment] Add your code here 
 
-     with open(filename, 'r') as f:
-        contents = f.read()
+     with open('./story.txt', 'r') as file:
+        contents = file.read()
         return(contents)
 
-result = read_file_content("Reading-Text-Files\story.txt")
+result = read_file_content("./story.txt")
 print (result)           
     
            
