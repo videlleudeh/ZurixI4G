@@ -1,3 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 header {
 	background-image: 
       linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -15,6 +21,10 @@ h1 {
 	padding: 50px;
 }
 
+.p1 {
+	padding: 1rem;
+}
+
 img {
 	height:200px; 
 	width:200px;
@@ -28,6 +38,7 @@ body {
 
 .list {
 	text-align: left;
+	padding: 1.3rem;
 }
 
 footer {
