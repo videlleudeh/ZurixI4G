@@ -6,23 +6,20 @@ class Student:
         self.tracks = tracks
         self.score = score
 
-    def __str__(self) -> str:
-        return f'{self.name} is a {self.age} years old student at the I4GxZuri Training. He is enrolled in the {self.tracks} program and has {self.score} points.'
-    
     def change_name(self, name: str):
         self.name = name
-        return self.name
+        print (f"Hi my name is {name}.")
 
     def change_age(self, age: int):
         self.age = age
-        return self.age
+        print (f"I am {age} years old.")
 
     def add_track(self, track: list):
         self.tracks.append(track)
-        return self.tracks
+        print (f"I am enrolled in the {track} program at Zuri Training.")
 
     def get_score(self):
-        return self.score
+        print (f"My score is {self.score}.")
 
 
 Bob = Student(name="Bob", age=26, tracks=["FE","BE"],score=20.90)
