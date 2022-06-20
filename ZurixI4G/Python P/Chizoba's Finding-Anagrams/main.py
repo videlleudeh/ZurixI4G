@@ -11,8 +11,12 @@ def find_anagram(word, anagram):
     # [assignment] Add your code here
 
    
-    word = "".join(re.findall("[a-zA-Z]+", word)).lower()
-    anagram = "".join(re.findall("[a-zA-Z]+", anagram)).lower()
+    word = word.replace(" ", "")
+    anagram = anagram.replace(" ", "")
+
+    word = word.lower()
+    anagram = anagram.lower()
+
 
     if sorted(word.lower()) == sorted(anagram.lower()):
         return True
