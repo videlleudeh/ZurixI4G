@@ -9,7 +9,6 @@ import re
 
 def find_anagram(word, anagram):
     # [assignment] Add your code here
-
    
     word = word.replace(" ", "")
     anagram = anagram.replace(" ", "")
